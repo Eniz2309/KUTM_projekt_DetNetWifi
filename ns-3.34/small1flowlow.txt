@@ -1,0 +1,6 @@
+Total sent packets= 1981
+Total Received Packets =1634
+Average Throughput(kbps)= 240.006
+Delay(ns)= +5.10607e+11ps
+Jitter(ns)= +7.32486e+11ps
+Packet Loss(%)= 17.5164

@@ -1,0 +1,832 @@
+Waf: Entering directory `/home/etftk/Desktop/bake/detnetwifi-ns3/ns-3.34/build'
+Waf: Leaving directory `/home/etftk/Desktop/bake/detnetwifi-ns3/ns-3.34/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.510s)
+LocalClock:LocalClock(0x55a267ee8500)
+PerfectClockModelImpl:PerfectClockModelImpl(0x55a267ee85a0)
+LocalClock:LocalClock(0x55a267ee8550)
+LocalClock:~LocalClock(0x55a267ee8500)
+PerfectClockModelImpl:PerfectClockModelImpl(0x55a267ee86f0)
+LocalClock:LocalClock(0x55a267ee86a0)
+PerfectClockModelImpl:PerfectClockModelImpl(0x55a267ee87b0)
+LocalClock:LocalClock(0x55a267ee8760)
+PerfectClockModelImpl:PerfectClockModelImpl(0x55a267ee8870)
+LocalClock:LocalClock(0x55a267ee8820)
+PerfectClockModelImpl:PerfectClockModelImpl(0x55a267ee8930)
+PerfectClockModelImpl:PerfectClockModelImpl(0x55a267ee8a00)
+PerfectClockModelImpl:PerfectClockModelImpl(0x55a267ee8a70)
+PerfectClockModelImpl:PerfectClockModelImpl(0x55a267ee8ae0)
+LocalClock:LocalClock(0x55a267ee88e0)
+LocalClock:LocalClock(0x55a267ee8500)
+LocalClock:LocalClock(0x55a267ee8bb0)
+LocalClock:LocalClock(0x55a267ee8c20)
+UdpL4Protocol:UdpL4Protocol(0x55a267e04930)
+UdpL4Protocol:NotifyNewAggregate(0x55a267e04930)
+UdpL4Protocol:NotifyNewAggregate(0x55a267e04930)
+UdpL4Protocol:SetDownTarget(0x55a267e04930)
+UdpL4Protocol:SetDownTarget6(0x55a267e04930)
+UdpL4Protocol:NotifyNewAggregate(0x55a267e04930)
+UdpL4Protocol:NotifyNewAggregate(0x55a267e04930)
+UdpL4Protocol:NotifyNewAggregate(0x55a267e04930)
+UdpL4Protocol:UdpL4Protocol(0x55a267eff090)
+UdpL4Protocol:NotifyNewAggregate(0x55a267eff090)
+UdpL4Protocol:NotifyNewAggregate(0x55a267eff090)
+UdpL4Protocol:SetDownTarget(0x55a267eff090)
+UdpL4Protocol:SetDownTarget6(0x55a267eff090)
+UdpL4Protocol:NotifyNewAggregate(0x55a267eff090)
+UdpL4Protocol:NotifyNewAggregate(0x55a267eff090)
+UdpL4Protocol:NotifyNewAggregate(0x55a267eff090)
+UdpL4Protocol:UdpL4Protocol(0x55a267f01030)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f01030)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f01030)
+UdpL4Protocol:SetDownTarget(0x55a267f01030)
+UdpL4Protocol:SetDownTarget6(0x55a267f01030)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f01030)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f01030)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f01030)
+UdpL4Protocol:UdpL4Protocol(0x55a267f01b70)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f01b70)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f01b70)
+UdpL4Protocol:SetDownTarget(0x55a267f01b70)
+UdpL4Protocol:SetDownTarget6(0x55a267f01b70)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f01b70)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f01b70)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f01b70)
+UdpL4Protocol:UdpL4Protocol(0x55a267f120d0)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f120d0)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f120d0)
+UdpL4Protocol:SetDownTarget(0x55a267f120d0)
+UdpL4Protocol:SetDownTarget6(0x55a267f120d0)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f120d0)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f120d0)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f120d0)
+UdpL4Protocol:UdpL4Protocol(0x55a267f175e0)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f175e0)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f175e0)
+UdpL4Protocol:SetDownTarget(0x55a267f175e0)
+UdpL4Protocol:SetDownTarget6(0x55a267f175e0)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f175e0)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f175e0)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f175e0)
+UdpL4Protocol:UdpL4Protocol(0x55a267f21fe0)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f21fe0)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f21fe0)
+UdpL4Protocol:SetDownTarget(0x55a267f21fe0)
+UdpL4Protocol:SetDownTarget6(0x55a267f21fe0)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f21fe0)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f21fe0)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f21fe0)
+UdpL4Protocol:UdpL4Protocol(0x55a267f24110)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f24110)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f24110)
+UdpL4Protocol:SetDownTarget(0x55a267f24110)
+UdpL4Protocol:SetDownTarget6(0x55a267f24110)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f24110)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f24110)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f24110)
+UdpL4Protocol:UdpL4Protocol(0x55a267f26240)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f26240)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f26240)
+UdpL4Protocol:SetDownTarget(0x55a267f26240)
+UdpL4Protocol:SetDownTarget6(0x55a267f26240)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f26240)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f26240)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f26240)
+UdpL4Protocol:UdpL4Protocol(0x55a267f284c0)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f284c0)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f284c0)
+UdpL4Protocol:SetDownTarget(0x55a267f284c0)
+UdpL4Protocol:SetDownTarget6(0x55a267f284c0)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f284c0)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f284c0)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f284c0)
+UdpL4Protocol:CreateSocket(0x55a267e04930)
+UdpL4Protocol:Allocate(0x55a267e04930, 0, 192.168.5.4, 80)
+UdpL4Protocol:NotifyNewAggregate(0x55a267e04930)
+UdpL4Protocol:CreateSocket(0x55a267f26240)
+UdpL4Protocol:NotifyNewAggregate(0x55a267f26240)
+
+UDP server 
+
+UDP client 
+
+UDP client 
+
+UDP client 
+
+UDP client 
+
+UDP client 
+
+UDP client 
+
+UDP client 
+
+UDP client 
+
+UDP client 
+
+UDP client 
+LocalClock:GetLocalTime(0x55a267ee8500)
+PerfectClockModelImpl:GetLocalTime(0x55a267ee8a00)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267ee8a00, +0ps)
+UdpL4Protocol:Allocate(0x55a267f26240)
+UdpL4Protocol:Send(0x55a267f26240, 0x55a267f40a20, 192.168.5.6, 192.168.5.4, 49153, 80, 0x55a267d906a0)
+*****Print AP and STA Time*********
+ AP LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267ee8930)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267ee8930, +0ps)
+0 STA LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267ee8ae0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267ee8ae0, +0ps)
+0 diff LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267ee8ae0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267ee8ae0, +0ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267ee8930)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267ee8930, +0ps)
++0ps Switch LocalClock:GetLocalTime(0x55a267ee8500)
+PerfectClockModelImpl:GetLocalTime(0x55a267ee8a00)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267ee8a00, +0ps)
+100000000000000
+*********************************
+UdpL4Protocol:CreateSocket(0x55a267e04930)
+UdpL4Protocol:Allocate(0x55a267e04930, 0, 9)
+UdpL4Protocol:CreateSocket(0x55a267e04930)
+UdpL4Protocol:Allocate6(0x55a267e04930, 0, 9)
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f34c50, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 0 protocol 17 offset (bytes) 0 flags [none] length: 1052 192.168.5.6 > 192.168.5.4)
+Looking up dst 192.168.5.4 port 80
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267ee8930)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267ee8930, +3.11752e+09ps)
+PerfectClockModelImpl:PerfectClockModelImpl(0x55a267f20840)
+LocalClock:SetClock(0x55a267ee88e0, 0x55a267f20840)
+LocalClock:LocalClock(0x55a267f40ca0)
+LocalClock:LocalClock(0x55a267f32c50)
+LocalClock:~LocalClock(0x55a267f32c50)
+LocalClock:LocalClock(0x55a267f389d0)
+LocalClock:LocalClock(0x55a267f36c90)
+LocalClock:~LocalClock(0x55a267f389d0)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +8.20802e+09ps)
+LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267ee8ae0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267ee8ae0, +8.21203e+09ps)
+LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267ee8ae0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267ee8ae0, +8.33603e+09ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +8.34005e+09ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +9.14802e+09ps)
+LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267ee8ae0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267ee8ae0, +9.15203e+09ps)
+PerfectClockModelImpl:PerfectClockModelImpl(0x55a267f8bdd0)
+LocalClock:SetClock(0x55a267ee8c20, 0x55a267f8bdd0)
+LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267f8bdd0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f8bdd0, +9.25203e+09ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +9.25605e+09ps)
+*****Print AP and STA Time*********
+ AP LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +1e+12ps)
+100996882480000 STA LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267f8bdd0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f8bdd0, +1e+12ps)
+100996878463322 diff LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267f8bdd0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f8bdd0, +1e+12ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +1e+12ps)
++4.01668e+06ps Switch LocalClock:GetLocalTime(0x55a267ee8500)
+PerfectClockModelImpl:GetLocalTime(0x55a267ee8a00)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267ee8a00, +1e+12ps)
+101000000000000
+*********************************
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +1.00852e+12ps)
+LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267f8bdd0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f8bdd0, +1.00852e+12ps)
+LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267f8bdd0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f8bdd0, +1.00863e+12ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +1.00864e+12ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +1.00946e+12ps)
+LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267f8bdd0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f8bdd0, +1.00946e+12ps)
+LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267f8bdd0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f8bdd0, +1.00956e+12ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +1.00956e+12ps)
+*****Print AP and STA Time*********
+ AP LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +2e+12ps)
+101996882480000 STA LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267f8bdd0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f8bdd0, +2e+12ps)
+101996878463322 diff LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267f8bdd0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f8bdd0, +2e+12ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +2e+12ps)
++4.01668e+06ps Switch LocalClock:GetLocalTime(0x55a267ee8500)
+PerfectClockModelImpl:GetLocalTime(0x55a267ee8a00)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267ee8a00, +2e+12ps)
+102000000000000
+*********************************
+UdpL4Protocol:CreateSocket(0x55a267eff090)
+UdpL4Protocol:Allocate(0x55a267eff090)
+UdpL4Protocol:CreateSocket(0x55a267eff090)
+UdpL4Protocol:Allocate(0x55a267eff090)
+UdpL4Protocol:CreateSocket(0x55a267eff090)
+UdpL4Protocol:Allocate(0x55a267eff090)
+UdpL4Protocol:CreateSocket(0x55a267eff090)
+UdpL4Protocol:Allocate(0x55a267eff090)
+UdpL4Protocol:CreateSocket(0x55a267eff090)
+UdpL4Protocol:Allocate(0x55a267eff090)
+UdpL4Protocol:CreateSocket(0x55a267eff090)
+UdpL4Protocol:Allocate(0x55a267eff090)
+UdpL4Protocol:CreateSocket(0x55a267eff090)
+UdpL4Protocol:Allocate(0x55a267eff090)
+UdpL4Protocol:CreateSocket(0x55a267eff090)
+UdpL4Protocol:Allocate(0x55a267eff090)
+UdpL4Protocol:CreateSocket(0x55a267eff090)
+UdpL4Protocol:Allocate(0x55a267eff090)
+UdpL4Protocol:CreateSocket(0x55a267eff090)
+UdpL4Protocol:Allocate(0x55a267eff090)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f60ee0, 192.168.1.2, 192.168.1.1, 49153, 9, 0x55a267fa9c30)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f60ee0, 192.168.1.2, 192.168.1.1, 49154, 9, 0x55a267f99810)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f60ee0, 192.168.1.2, 192.168.1.1, 49155, 9, 0x55a267f90ae0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f60ee0, 192.168.1.2, 192.168.1.1, 49156, 9, 0x55a267f8b190)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f60ee0, 192.168.1.2, 192.168.1.1, 49157, 9, 0x55a267fb1050)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f60ee0, 192.168.1.2, 192.168.1.1, 49158, 9, 0x55a267fb10b0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f60ee0, 192.168.1.2, 192.168.1.1, 49159, 9, 0x55a267fb10e0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f60ee0, 192.168.1.2, 192.168.1.1, 49160, 9, 0x55a267fa81a0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f60ee0, 192.168.1.2, 192.168.1.1, 49161, 9, 0x55a267fb55c0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f60ee0, 192.168.1.2, 192.168.1.1, 49162, 9, 0x55a267f98280)
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267fb57c0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 0 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267fb57c0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 1 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267fb57c0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 2 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +2.00852e+12ps)
+LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267f8bdd0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f8bdd0, +2.00852e+12ps)
+LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267f8bdd0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f8bdd0, +2.00863e+12ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +2.00864e+12ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +2.00946e+12ps)
+LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267f8bdd0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f8bdd0, +2.00946e+12ps)
+LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267f8bdd0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f8bdd0, +2.00956e+12ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +2.00956e+12ps)
+*****Print AP and STA Time*********
+ AP LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +3e+12ps)
+102996882480000 STA LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267f8bdd0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f8bdd0, +3e+12ps)
+102996878463322 diff LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267f8bdd0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f8bdd0, +3e+12ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +3e+12ps)
++4.01668e+06ps Switch LocalClock:GetLocalTime(0x55a267ee8500)
+PerfectClockModelImpl:GetLocalTime(0x55a267ee8a00)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267ee8a00, +3e+12ps)
+103000000000000
+*********************************
+Random value 38
+
+ Channel freq of AP1 is currently =5190and channelWidth = 40
+Size of packet with header 12
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa7020, 192.168.1.2, 192.168.1.1, 49153, 9, 0x55a267fae4b0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa7020, 192.168.1.2, 192.168.1.1, 49154, 9, 0x55a267f370e0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa7020, 192.168.1.2, 192.168.1.1, 49155, 9, 0x55a267fa9c30)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa7020, 192.168.1.2, 192.168.1.1, 49156, 9, 0x55a267f99810)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa7020, 192.168.1.2, 192.168.1.1, 49157, 9, 0x55a267f90ae0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa7020, 192.168.1.2, 192.168.1.1, 49158, 9, 0x55a267f8b190)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa7020, 192.168.1.2, 192.168.1.1, 49159, 9, 0x55a267fb1050)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa7020, 192.168.1.2, 192.168.1.1, 49160, 9, 0x55a267fb10b0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa7020, 192.168.1.2, 192.168.1.1, 49161, 9, 0x55a267fb10e0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa7020, 192.168.1.2, 192.168.1.1, 49162, 9, 0x55a267fa81a0)
+TraceDelay TX 20 bytes to 07-0f-01:00:00:00:00:03:01:02:06:00:00:00:00:00:13 Uid: 706 Time: 3
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +3.00852e+12ps)
+LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267f8bdd0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f8bdd0, +3.00852e+12ps)
+LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267f8bdd0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f8bdd0, +3.00863e+12ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +3.00864e+12ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +3.00946e+12ps)
+PerfectClockModelImpl:PerfectClockModelImpl(0x55a267fb2380)
+LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267f8bdd0)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f8bdd0, +3.00954e+12ps)
+LocalClock:SetClock(0x55a267ee8c20, 0x55a267fb2380)
+PerfectClockModelImpl:~PerfectClockModelImpl(0x55a267f8bdd0)
+LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267fb2380)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267fb2380, +3.00954e+12ps)
+LocalClock:SetClock(0x55a267ee8c20, 0x55a267fb2380)
+Measured RTT from FTM: 31192
+LocalClock:~LocalClock(0x55a267f40ca0)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +3.00956e+12ps)
+LocalClock:~LocalClock(0x55a267f36c90)
+Value sent and received= 38
+Time is sentrx: 3.02
+
+ Channel freq of AP2 is currently =5190and channelWidth = 40
+*****Print AP and STA Time*********
+ AP LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +4e+12ps)
+103996882480000 STA LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267fb2380)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267fb2380, +4e+12ps)
+103996878478918 diff LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267fb2380)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267fb2380, +4e+12ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +4e+12ps)
++4.00108e+06ps Switch LocalClock:GetLocalTime(0x55a267ee8500)
+PerfectClockModelImpl:GetLocalTime(0x55a267ee8a00)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267ee8a00, +4e+12ps)
+104000000000000
+*********************************
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa5730, 192.168.1.2, 192.168.1.1, 49153, 9, 0x55a267fc45d0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa5730, 192.168.1.2, 192.168.1.1, 49154, 9, 0x55a267fa6580)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa5730, 192.168.1.2, 192.168.1.1, 49155, 9, 0x55a267fae4b0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa5730, 192.168.1.2, 192.168.1.1, 49156, 9, 0x55a267f370e0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa5730, 192.168.1.2, 192.168.1.1, 49157, 9, 0x55a267f9c130)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa5730, 192.168.1.2, 192.168.1.1, 49158, 9, 0x55a267fa9c30)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa5730, 192.168.1.2, 192.168.1.1, 49159, 9, 0x55a267f90ae0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa5730, 192.168.1.2, 192.168.1.1, 49160, 9, 0x55a267f8b190)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa5730, 192.168.1.2, 192.168.1.1, 49161, 9, 0x55a267fb1050)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa5730, 192.168.1.2, 192.168.1.1, 49162, 9, 0x55a267fb10b0)
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f99010, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 20 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f99010, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 21 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f99010, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 22 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+*****Print AP and STA Time*********
+ AP LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +5e+12ps)
+104996882480000 STA LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267fb2380)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267fb2380, +5e+12ps)
+104996878478918 diff LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267fb2380)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267fb2380, +5e+12ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +5e+12ps)
++4.00108e+06ps Switch LocalClock:GetLocalTime(0x55a267ee8500)
+PerfectClockModelImpl:GetLocalTime(0x55a267ee8a00)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267ee8a00, +5e+12ps)
+105000000000000
+*********************************
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fae510, 192.168.1.2, 192.168.1.1, 49153, 9, 0x55a267fa7e80)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fae510, 192.168.1.2, 192.168.1.1, 49154, 9, 0x55a267fc45d0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fae510, 192.168.1.2, 192.168.1.1, 49155, 9, 0x55a267fa6580)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fae510, 192.168.1.2, 192.168.1.1, 49156, 9, 0x55a267fae4b0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fae510, 192.168.1.2, 192.168.1.1, 49157, 9, 0x55a267f8e0b0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fae510, 192.168.1.2, 192.168.1.1, 49158, 9, 0x55a267f9c130)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fae510, 192.168.1.2, 192.168.1.1, 49159, 9, 0x55a267fa9c30)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fae510, 192.168.1.2, 192.168.1.1, 49160, 9, 0x55a267f90ae0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fae510, 192.168.1.2, 192.168.1.1, 49161, 9, 0x55a267f8b190)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fae510, 192.168.1.2, 192.168.1.1, 49162, 9, 0x55a267fb1050)
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267faa940, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 30 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267faa940, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 31 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267faa940, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 32 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267faa940, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 33 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267faa940, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 34 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267faa940, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 35 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267faa940, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 36 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267faa940, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 37 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267faa940, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 38 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267faa940, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 39 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+*****Print AP and STA Time*********
+ AP LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +6e+12ps)
+105996882480000 STA LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267fb2380)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267fb2380, +6e+12ps)
+105996878478918 diff LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267fb2380)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267fb2380, +6e+12ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +6e+12ps)
++4.00108e+06ps Switch LocalClock:GetLocalTime(0x55a267ee8500)
+PerfectClockModelImpl:GetLocalTime(0x55a267ee8a00)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267ee8a00, +6e+12ps)
+106000000000000
+*********************************
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f8f7b0, 192.168.1.2, 192.168.1.1, 49153, 9, 0x55a267f8cd80)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f8f7b0, 192.168.1.2, 192.168.1.1, 49154, 9, 0x55a267f9c350)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f8f7b0, 192.168.1.2, 192.168.1.1, 49155, 9, 0x55a267fa7e80)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f8f7b0, 192.168.1.2, 192.168.1.1, 49156, 9, 0x55a267fc45d0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f8f7b0, 192.168.1.2, 192.168.1.1, 49157, 9, 0x55a267fa6580)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f8f7b0, 192.168.1.2, 192.168.1.1, 49158, 9, 0x55a267f8eeb0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f8f7b0, 192.168.1.2, 192.168.1.1, 49159, 9, 0x55a267fae4b0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f8f7b0, 192.168.1.2, 192.168.1.1, 49160, 9, 0x55a267f9c130)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f8f7b0, 192.168.1.2, 192.168.1.1, 49161, 9, 0x55a267fa9c30)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f8f7b0, 192.168.1.2, 192.168.1.1, 49162, 9, 0x55a267f90ae0)
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f97090, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 40 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f97090, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 41 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f97090, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 42 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f97090, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 43 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f97090, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 44 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f97090, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 45 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f97090, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 46 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f97090, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 47 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f97090, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 48 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f97090, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 49 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+*****Print AP and STA Time*********
+ AP LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +7e+12ps)
+106996882480000 STA LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267fb2380)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267fb2380, +7e+12ps)
+106996878478918 diff LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267fb2380)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267fb2380, +7e+12ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +7e+12ps)
++4.00108e+06ps Switch LocalClock:GetLocalTime(0x55a267ee8500)
+PerfectClockModelImpl:GetLocalTime(0x55a267ee8a00)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267ee8a00, +7e+12ps)
+107000000000000
+*********************************
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f99010, 192.168.1.2, 192.168.1.1, 49153, 9, 0x55a267f5ab70)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f99010, 192.168.1.2, 192.168.1.1, 49154, 9, 0x55a267f8cd80)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f99010, 192.168.1.2, 192.168.1.1, 49155, 9, 0x55a267f9c350)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f99010, 192.168.1.2, 192.168.1.1, 49156, 9, 0x55a267fa7e80)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f99010, 192.168.1.2, 192.168.1.1, 49157, 9, 0x55a267fc45d0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f99010, 192.168.1.2, 192.168.1.1, 49158, 9, 0x55a267f8c6c0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f99010, 192.168.1.2, 192.168.1.1, 49159, 9, 0x55a267f8eeb0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f99010, 192.168.1.2, 192.168.1.1, 49160, 9, 0x55a267fae4b0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f99010, 192.168.1.2, 192.168.1.1, 49161, 9, 0x55a267f9c130)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f99010, 192.168.1.2, 192.168.1.1, 49162, 9, 0x55a267fa9c30)
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f5ad50, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 50 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f5ad50, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 51 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f5ad50, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 52 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f5ad50, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 53 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f5ad50, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 54 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f5ad50, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 55 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f5ad50, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 56 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f5ad50, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 57 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f5ad50, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 58 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f5ad50, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 59 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+*****Print AP and STA Time*********
+ AP LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +8e+12ps)
+107996882480000 STA LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267fb2380)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267fb2380, +8e+12ps)
+107996878478918 diff LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267fb2380)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267fb2380, +8e+12ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +8e+12ps)
++4.00108e+06ps Switch LocalClock:GetLocalTime(0x55a267ee8500)
+PerfectClockModelImpl:GetLocalTime(0x55a267ee8a00)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267ee8a00, +8e+12ps)
+108000000000000
+*********************************
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f34080, 192.168.1.2, 192.168.1.1, 49153, 9, 0x55a267f848f0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f34080, 192.168.1.2, 192.168.1.1, 49154, 9, 0x55a267f5ab70)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f34080, 192.168.1.2, 192.168.1.1, 49155, 9, 0x55a267f8cd80)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f34080, 192.168.1.2, 192.168.1.1, 49156, 9, 0x55a267f9c350)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f34080, 192.168.1.2, 192.168.1.1, 49157, 9, 0x55a267fa7e80)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f34080, 192.168.1.2, 192.168.1.1, 49158, 9, 0x55a267fc45d0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f34080, 192.168.1.2, 192.168.1.1, 49159, 9, 0x55a267f8c6c0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f34080, 192.168.1.2, 192.168.1.1, 49160, 9, 0x55a267f8eeb0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f34080, 192.168.1.2, 192.168.1.1, 49161, 9, 0x55a267fae4b0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267f34080, 192.168.1.2, 192.168.1.1, 49162, 9, 0x55a267f9c130)
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f60ee0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 60 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f60ee0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 61 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f60ee0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 62 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f60ee0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 63 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f60ee0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 64 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f60ee0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 65 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f60ee0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 66 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f60ee0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 67 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f60ee0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 68 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f60ee0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 69 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+*****Print AP and STA Time*********
+ AP LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +9e+12ps)
+108996882480000 STA LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267fb2380)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267fb2380, +9e+12ps)
+108996878478918 diff LocalClock:GetLocalTime(0x55a267ee8c20)
+PerfectClockModelImpl:GetLocalTime(0x55a267fb2380)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267fb2380, +9e+12ps)
+LocalClock:GetLocalTime(0x55a267ee88e0)
+PerfectClockModelImpl:GetLocalTime(0x55a267f20840)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267f20840, +9e+12ps)
++4.00108e+06ps Switch LocalClock:GetLocalTime(0x55a267ee8500)
+PerfectClockModelImpl:GetLocalTime(0x55a267ee8a00)
+PerfectClockModelImpl:GlobalToLocalTime(0x55a267ee8a00, +9e+12ps)
+109000000000000
+*********************************
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa5890, 192.168.1.2, 192.168.1.1, 49153, 9, 0x55a267fae100)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa5890, 192.168.1.2, 192.168.1.1, 49154, 9, 0x55a267f848f0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa5890, 192.168.1.2, 192.168.1.1, 49155, 9, 0x55a267f5ab70)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fa5890, 192.168.1.2, 192.168.1.1, 49156, 9, 0x55a267f8cd80)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fb3c40, 192.168.1.2, 192.168.1.1, 49157, 9, 0x55a267f9c350)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fb3c40, 192.168.1.2, 192.168.1.1, 49158, 9, 0x55a267fa7e80)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fb3c40, 192.168.1.2, 192.168.1.1, 49159, 9, 0x55a267fc45d0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fb3c40, 192.168.1.2, 192.168.1.1, 49160, 9, 0x55a267f8c6c0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fb3c40, 192.168.1.2, 192.168.1.1, 49161, 9, 0x55a267f8eeb0)
+UdpL4Protocol:Send(0x55a267eff090, 0x55a267fb3c40, 192.168.1.2, 192.168.1.1, 49162, 9, 0x55a267fae4b0)
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f8bda0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 70 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f8bda0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 71 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f8bda0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 72 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f8bda0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 73 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f8bda0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 74 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f8bda0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 75 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f8bda0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 76 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f8bda0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 77 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f8bda0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 78 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+UdpL4Protocol:Receive(0x55a267e04930, 0x55a267f8bda0, tos 0x0 DSCP Default ECN Not-ECT ttl 64 id 79 protocol 17 offset (bytes) 0 flags [none] length: 58 192.168.1.2 > 192.168.1.1)
+Looking up dst 192.168.1.1 port 9
+
+----Flow ID:1
+Src Addr 192.168.5.6 Dst Addr 192.168.5.4
+Sent Packets=1
+Received Packets =1
+Packet delivery ratio =100%
+Packet loss percentage =0/1(0%)
+Avg. Delay =+3.11752e+12ps
+Sum. Delay =+3.11752e+09ps
+Avg. Jitter =+0ps
+Sum. Jitter =+0ps
+Throughput =2636.31Kbps
+
+----Flow ID:2
+Src Addr 192.168.1.2 Dst Addr 192.168.1.1
+Sent Packets=8
+Received Packets =7
+Packet delivery ratio =87%
+Packet loss percentage =1/8(12%)
+Avg. Delay =+1.69584e+12ps
+Sum. Delay =+1.18709e+10ps
+Avg. Jitter =+1.7626e+12ps
+Sum. Jitter =+1.23382e+10ps
+Throughput =0.453122Kbps
+
+----Flow ID:3
+Src Addr 192.168.1.2 Dst Addr 192.168.1.1
+Sent Packets=8
+Received Packets =7
+Packet delivery ratio =87%
+Packet loss percentage =1/8(12%)
+Avg. Delay =+1.69933e+12ps
+Sum. Delay =+1.18953e+10ps
+Avg. Jitter =+1.7626e+12ps
+Sum. Jitter =+1.23382e+10ps
+Throughput =0.453121Kbps
+
+----Flow ID:4
+Src Addr 192.168.1.2 Dst Addr 192.168.1.1
+Sent Packets=8
+Received Packets =7
+Packet delivery ratio =87%
+Packet loss percentage =1/8(12%)
+Avg. Delay =+1.70368e+12ps
+Sum. Delay =+1.19258e+10ps
+Avg. Jitter =+1.76304e+12ps
+Sum. Jitter =+1.23413e+10ps
+Throughput =0.453121Kbps
+
+----Flow ID:5
+Src Addr 192.168.1.2 Dst Addr 192.168.1.1
+Sent Packets=8
+Received Packets =5
+Packet delivery ratio =62%
+Packet loss percentage =3/8(37%)
+Avg. Delay =+6.1878e+10ps
+Sum. Delay =+3.0939e+08ps
+Avg. Jitter =+2.6e+09ps
+Sum. Jitter =+1.3e+07ps
+Throughput =0.323658Kbps
+
+----Flow ID:6
+Src Addr 192.168.1.2 Dst Addr 192.168.1.1
+Sent Packets=8
+Received Packets =5
+Packet delivery ratio =62%
+Packet loss percentage =3/8(37%)
+Avg. Delay =+6.53651e+10ps
+Sum. Delay =+3.26826e+08ps
+Avg. Jitter =+2.6e+09ps
+Sum. Jitter =+1.3e+07ps
+Throughput =0.323658Kbps
+
+----Flow ID:7
+Src Addr 192.168.1.2 Dst Addr 192.168.1.1
+Sent Packets=8
+Received Packets =5
+Packet delivery ratio =62%
+Packet loss percentage =3/8(37%)
+Avg. Delay =+6.88523e+10ps
+Sum. Delay =+3.44262e+08ps
+Avg. Jitter =+2.6e+09ps
+Sum. Jitter =+1.3e+07ps
+Throughput =0.323658Kbps
+
+----Flow ID:8
+Src Addr 192.168.1.2 Dst Addr 192.168.1.1
+Sent Packets=8
+Received Packets =5
+Packet delivery ratio =62%
+Packet loss percentage =3/8(37%)
+Avg. Delay =+7.23395e+10ps
+Sum. Delay =+3.61698e+08ps
+Avg. Jitter =+2.6e+09ps
+Sum. Jitter =+1.3e+07ps
+Throughput =0.323657Kbps
+
+----Flow ID:9
+Src Addr 192.168.1.2 Dst Addr 192.168.1.1
+Sent Packets=8
+Received Packets =5
+Packet delivery ratio =62%
+Packet loss percentage =3/8(37%)
+Avg. Delay =+7.58267e+10ps
+Sum. Delay =+3.79133e+08ps
+Avg. Jitter =+2.6e+09ps
+Sum. Jitter =+1.3e+07ps
+Throughput =0.323657Kbps
+
+----Flow ID:10
+Src Addr 192.168.1.2 Dst Addr 192.168.1.1
+Sent Packets=8
+Received Packets =5
+Packet delivery ratio =62%
+Packet loss percentage =3/8(37%)
+Avg. Delay =+7.93139e+10ps
+Sum. Delay =+3.96569e+08ps
+Avg. Jitter =+2.6e+09ps
+Sum. Jitter =+1.3e+07ps
+Throughput =0.323657Kbps
+
+----Flow ID:11
+Src Addr 192.168.1.2 Dst Addr 192.168.1.1
+Sent Packets=8
+Received Packets =5
+Packet delivery ratio =62%
+Packet loss percentage =3/8(37%)
+Avg. Delay =+8.86334e+10ps
+Sum. Delay =+4.43167e+08ps
+Avg. Jitter =+2.6e+09ps
+Sum. Jitter =+1.3e+07ps
+Throughput =0.323657Kbps
+
+--------Total Results of the simulation----------
+Total sent packets  =81
+Total Received Packets =57
+Total Lost Packets =24
+Packet Loss ratio =29%
+Packet delivery ratio =70%
+Average Throughput =239.994Kbps
+End to End Delay =+4.13705e+10ps
+End to End Jitter delay =+3.71087e+10ps
+Total Flow id 11
+UdpL4Protocol:DoDispose(0x55a267f175e0)
+UdpL4Protocol:DoDispose(0x55a267f21fe0)
+UdpL4Protocol:DoDispose(0x55a267f24110)
+UdpL4Protocol:DoDispose(0x55a267f26240)
+UdpL4Protocol:DoDispose(0x55a267f284c0)
+UdpL4Protocol:DoDispose(0x55a267e04930)
+UdpL4Protocol:DoDispose(0x55a267f01b70)
+UdpL4Protocol:DoDispose(0x55a267eff090)
+UdpL4Protocol:DoDispose(0x55a267f01030)
+UdpL4Protocol:DoDispose(0x55a267f120d0)
+PerfectClockModelImpl:~PerfectClockModelImpl(0x55a267ee8ae0)
+PerfectClockModelImpl:~PerfectClockModelImpl(0x55a267ee8930)
+LocalClock:~LocalClock(0x55a267ee8820)
+PerfectClockModelImpl:~PerfectClockModelImpl(0x55a267ee8870)
+UdpL4Protocol:~UdpL4Protocol(0x55a267f120d0)
+LocalClock:~LocalClock(0x55a267ee8c20)
+PerfectClockModelImpl:~PerfectClockModelImpl(0x55a267fb2380)
+UdpL4Protocol:~UdpL4Protocol(0x55a267eff090)
+UdpL4Protocol:~UdpL4Protocol(0x55a267f01030)
+LocalClock:~LocalClock(0x55a267ee8bb0)
+PerfectClockModelImpl:~PerfectClockModelImpl(0x55a267ee8a70)
+UdpL4Protocol:~UdpL4Protocol(0x55a267f01b70)
+UdpL4Protocol:~UdpL4Protocol(0x55a267f284c0)
+LocalClock:~LocalClock(0x55a267ee8550)
+PerfectClockModelImpl:~PerfectClockModelImpl(0x55a267ee85a0)
+UdpL4Protocol:~UdpL4Protocol(0x55a267f175e0)
+LocalClock:~LocalClock(0x55a267ee86a0)
+PerfectClockModelImpl:~PerfectClockModelImpl(0x55a267ee86f0)
+UdpL4Protocol:~UdpL4Protocol(0x55a267f21fe0)
+LocalClock:~LocalClock(0x55a267ee8760)
+PerfectClockModelImpl:~PerfectClockModelImpl(0x55a267ee87b0)
+UdpL4Protocol:~UdpL4Protocol(0x55a267f24110)
